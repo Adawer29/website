@@ -31,5 +31,5 @@ jobs:
       with:
         app-name: 'icellnitkkr'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_79ffe5a605a84bfb99b6de73c1c33041 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_f16d60a043b74613ae486b74b87144a0 }}
         package: .
